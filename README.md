@@ -6,12 +6,17 @@ Professionally, a **Software Developer**. I love building efficient and scalable
 
 ## My Recent Projects
 
+- **[Search JSON](https://search-json.vercel.app)**:
+	- It is a high-performance, developer-first tool designed for exploring, querying, and transforming complex JSON data structures with ease. 
+	- Whether you are debugging an API response or extracting specific fields from a massive dataset, Search JSON provides an immersive, themed environment to get the job done.
+
+
 - **[NovaDAV](https://novadav.vercel.app/)**: 
     - It is a lightweight, modern, and aesthetic web interface for CalDAV and CardDAV servers. 
     - Built for users who value privacy, speed, and clean design. 
     - It allows you to manage your calendars and contacts directly from your browser without intermediate servers.
 
-*INFO: More projects will be added here soon.*
+
 
 ---
 
