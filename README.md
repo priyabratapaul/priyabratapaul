@@ -37,7 +37,7 @@ I have worked with below technologies and tools:
 Feel free to reach out. 
 
 - [LinkedIn](https://linkedin.com/in/priyabratapaul)
-- [Twitter](https://twitter.com/priyabratapaulx)
+- [X (Formerly Twitter)](https://x.com/priyabratapaulx)
 - [Blue Sky Social](https://bsky.app/profile/priyabratapaul.bsky.social)
 
 ---
