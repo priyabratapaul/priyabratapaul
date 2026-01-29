@@ -1,14 +1,15 @@
 # 👋 Hi! I'm Priyabrata Paul 
 
-Professionally, a **Software Developer**. I love building efficient and scalable web applications. Always eager to learn new technologies.
+Professionally, a **Software Engineer**. I love building efficient and scalable web applications. Always eager to learn new technologies.
 
 ---
 
 ## My Recent Projects
 
 - **[Search JSON](https://search-json.vercel.app)**:
-	- It is a high-performance, developer-first tool designed for exploring, querying, and transforming complex JSON data structures with ease. 
+	- It is a query tool designed for exploring, querying, and transforming complex JSON data. 
 	- Whether you are debugging an API response or extracting specific fields from a massive dataset, Search JSON provides an immersive, themed environment to get the job done.
+	- Your JSON Data remains private. Data processing is done in client side (that is in your browser) only. Nothing goes to any backend server. So no worry on privacy issue. 
 
 
 - **[NovaDAV](https://novadav.vercel.app/)**: 
