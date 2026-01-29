@@ -13,7 +13,7 @@ Professionally, a **Software Engineer**. I love building efficient and scalable 
 
 
 - **[NovaDAV](https://novadav.vercel.app/)**: 
-    - It is a lightweight, modern, and aesthetic web interface for CalDAV and CardDAV servers. 
+    - It is a lightweight web interface for CalDAV and CardDAV servers. 
     - Built for users who value privacy, speed, and clean design. 
     - It allows you to manage your calendars and contacts directly from your browser without intermediate servers.
 
