@@ -6,17 +6,23 @@ Professionally, a **Software Engineer**. I love building efficient and scalable 
 
 ## My Recent Projects
 
+- **[TerraForm Studio](https://terraform-studio.vercel.app)**
+	- It is an interactive, browser-based 3D landscape architect and sculpting engine. 
+	- It allows users to create, paint, and simulate vibrant 3D environments with professional-grade tools.
+	- App is currently free to use. Link: https://terraform-studio.vercel.app
+
 - **[Search JSON](https://search-json.vercel.app)**:
 	- It is a query tool designed for exploring, querying, and transforming complex JSON data. 
 	- Whether you are debugging an API response or extracting specific fields from a massive dataset, Search JSON provides an immersive, themed environment to get the job done.
-	- Your JSON Data remains private. Data processing is done in client side (that is in your browser) only. Nothing goes to any backend server. So no worry on privacy issue. 
+	- Your JSON Data remains private. Data processing is done in client side (that is in your browser) only. Nothing goes to any backend server. So no worry on privacy issue.
+	- App is currently free to use. Link: https://search-json.vercel.app
 
 
-- **[NovaDAV](https://novadav.vercel.app/)**: 
+- **[NovaDAV](https://novadav.vercel.app)**: 
     - It is a lightweight web interface for CalDAV and CardDAV servers. 
     - Built for users who value privacy, speed, and clean design. 
     - It allows you to manage your calendars and contacts directly from your browser without intermediate servers.
-
+	- App is currently free to use. Link: https://novadav.vercel.app
 
 
 ---
