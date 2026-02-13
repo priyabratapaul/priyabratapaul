@@ -11,19 +11,19 @@ Currently working on some personal projects.
 	- It is an interactive, browser-based 3D landscape architect and sculpting engine. 
 	- It allows users to create, paint, and simulate vibrant 3D environments with professional-grade tools.
 	- Short Demo (less than 5 mins): https://vimeo.com/1163406483
-	- App is currently available for free. Link: https://terraform-studio.vercel.app
+	- This app is currently available for free. Link: https://terraform-studio.vercel.app
 
 - **[JSON Query Pro](https://json-query-pro.vercel.app)**:
 	- It is a query tool designed for exploring, querying, and transforming complex JSON data. 
 	- Whether you are debugging an API response or extracting specific fields from a massive dataset, Search JSON provides an immersive, themed environment to get the job done.
 	- Your JSON Data remains private. Data processing is done in client side (that is in your browser) only. Nothing goes to any backend server. So no worry on privacy issue.
-	- App is currently available for free. Link: https://json-query-pro.vercel.app
+	- This app is currently available for free. Link: https://json-query-pro.vercel.app
 
 - **[NovaDAV](https://novadav.vercel.app)**: 
     - It is a lightweight web interface for CalDAV and CardDAV servers. 
     - Built for users who value privacy, speed, and clean design. 
     - It allows you to manage your calendars and contacts directly from your browser without intermediate servers.
-	- App is currently available for free. Link: https://novadav.vercel.app
+	- This app is currently available for free. Link: https://novadav.vercel.app
 
 
 ---
