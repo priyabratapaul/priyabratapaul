@@ -7,13 +7,6 @@ Currently working on some personal projects.
 
 ## My Recent Projects
 
-- **[TerraForm Studio](https://terraform-studio.vercel.app)**
-	- It is an interactive, browser-based 3D landscape architect and sculpting engine. 
-	- It allows users to create, paint, and simulate vibrant 3D environments with professional-grade tools.
-	- Repository: https://github.com/priyabratapaul/terraform-studio
-	- Short Demo (less than 5 mins): https://vimeo.com/1163406483
-	- This app is deployed and currently available for free. Link: https://terraform-studio.vercel.app
-
 - **[JSON Query Pro](https://json-query-pro.vercel.app)**:
 	- It is a query tool designed for exploring, querying, and transforming complex JSON data. 
 	- Whether you are debugging an API response or extracting specific fields from a massive dataset, Search JSON provides an immersive, themed environment to get the job done.
@@ -21,6 +14,13 @@ Currently working on some personal projects.
 	- Repository: https://github.com/priyabratapaul/json-query-pro
 	- Short Demo (less than 5 mins): https://vimeo.com/1165172114
 	- This app is deployed and currently available for free. Link: https://json-query-pro.vercel.app
+
+- **[TerraForm Studio](https://terraform-studio.vercel.app)**
+	- It is an interactive, browser-based 3D landscape architect and sculpting engine. 
+	- It allows users to create, paint, and simulate vibrant 3D environments with professional-grade tools.
+	- Repository: https://github.com/priyabratapaul/terraform-studio
+	- Short Demo (less than 5 mins): https://vimeo.com/1163406483
+	- This app is deployed and currently available for free. Link: https://terraform-studio.vercel.app
 
 - **[NovaDAV](https://novadav.vercel.app)**: 
     - It is a lightweight web interface for CalDAV and CardDAV servers. 
