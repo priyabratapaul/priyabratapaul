@@ -1,7 +1,7 @@
 # 👋 Hi! I'm Priyabrata Paul 
 
 - I love building software solutions to problems using necessary tools and technology.
-- Some sample [projects]((#my-recent-projects)) are mentioned below.
+- Some sample [projects](#my-recent-projects) are mentioned below.
 - Want to connect - please check out [contact section](#-connect-with-me) below.
 - For more info - please check out my [portfolio website](https://priyabratapaul.netlify.app)
 
@@ -15,20 +15,20 @@
 	- Your JSON Data remains private. Data processing is done in client side (that is in your browser) only. Nothing goes to any backend server. So no worry on privacy issue.
 	- Repository: https://github.com/priyabratapaul/json-query-pro
 	- Short Demo (less than 5 mins): https://vimeo.com/1165172114
-	- This app is deployed and currently available for free. Link: https://json-query-pro.vercel.app
+	- App Link: https://json-query-pro.vercel.app
 
 - **[TerraForm Studio](https://terraform-studio.vercel.app)**
 	- It is an interactive, browser-based 3D landscape architect and sculpting engine. 
 	- It allows users to create, paint, and simulate vibrant 3D environments with professional-grade tools.
 	- Repository: https://github.com/priyabratapaul/terraform-studio
 	- Short Demo (less than 5 mins): https://vimeo.com/1163406483
-	- This app is deployed and currently available for free. Link: https://terraform-studio.vercel.app
+	- App Link: https://terraform-studio.vercel.app
 
 - **[NovaDAV](https://novadav.vercel.app)**: 
     - It is a lightweight web interface for CalDAV and CardDAV servers. 
     - Built for users who value privacy, speed, and clean design. 
     - It allows you to manage your calendars and contacts directly from your browser without intermediate servers.
-	- This app is deployed and currently available for free. Link: https://novadav.vercel.app
+	- App Link: https://novadav.vercel.app
 
 
 ---
