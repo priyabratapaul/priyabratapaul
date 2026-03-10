@@ -1,7 +1,9 @@
 # 👋 Hi! I'm Priyabrata Paul 
 
-Professionally, I am a **Software Engineer**. I love building efficient software solutions. Open to learn new technologies.
-Currently working on some personal projects.
+I love building efficient software solutions. Open to learn new technologies.
+Currently working on some projects (mentioned below).
+
+Link to my portfolio: https://priyabratapaul.netlify.app
 
 ---
 
