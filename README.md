@@ -1,9 +1,8 @@
 # 👋 Hi! I'm Priyabrata Paul 
 
-I love building efficient software solutions. Open to learn new technologies.
-Currently working on some projects (mentioned below).
-
-Link to my portfolio: https://priyabratapaul.netlify.app
+- I love building efficient software solutions. Open to learn new technologies.
+- Link to my portfolio: https://priyabratapaul.netlify.app
+- Currently working on some projects as [mentioned below](#my-recent-projects).
 
 ---
 
