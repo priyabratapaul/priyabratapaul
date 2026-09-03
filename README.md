@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Priyabrata Paul 
 
-- I love building software solutions to problems using necessary tools and technology.
+- I love building softwares to solve problems using necessary tools and technology.
 - Some sample [projects](#my-recent-projects) are mentioned below.
 - Want to connect - please check out [contact section](#-connect-with-me) below.
 - For more info - please check out my [portfolio website](https://priyabratapaul.netlify.app)
